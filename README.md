@@ -32,4 +32,3 @@ This repository contains all the assignments and projects completed during the *
 - Portfolio Creation & Presentation
 - Project File Organization and Version Control
 
-## Folder Structure
